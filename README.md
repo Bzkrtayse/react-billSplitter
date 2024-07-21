@@ -4,6 +4,10 @@
 
 Bill Splitter is an application that helps manage shared expenses among friends. It allows users to add friends, view their balances, and split bills between themselves and selected friends. The app provides a user-friendly interface to track who owes what and manage your shared expenses efficiently.
 
+![bill-2](https://github.com/user-attachments/assets/1f0922cb-5bf3-4441-8745-693f7c7b9148)
+
+![bill-1](https://github.com/user-attachments/assets/c41627f8-5ee0-43b0-ae42-4599277512d6)
+
 ## Features
 
 - **Add Friends**: Add new friends with a name and an optional image URL.
